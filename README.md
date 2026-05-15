@@ -1,0 +1,1 @@
+# RAG Project\n\nRAG implementation using LangChain, ChromaDB, and Google Gemini. Includes a knowledge base for Insurellm with products, contracts, employees, and company info.
